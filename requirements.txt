@@ -1,0 +1,10 @@
+# Mark and Sweep Garbage Collection Algorithm
+# Python Requirements
+
+# Optional: For graphical visualization
+graphviz>=0.20.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0  # For unit tests
+# black>=22.0.0  # For code formatting
+# mypy>=0.950    # For type checking
